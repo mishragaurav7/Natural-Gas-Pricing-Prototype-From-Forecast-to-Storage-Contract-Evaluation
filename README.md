@@ -1,4 +1,4 @@
-# 📊 Natural Gas Price Forecasting & Storage Contract Pricing Model
+# 📊 Natural Gas Price Forecasting & Storage Contract Analysis
 
 A two-stage modeling project that forecasts natural gas prices and evaluates gas storage contract value based on injection/withdrawal strategy, price curves, and storage constraints.
 
