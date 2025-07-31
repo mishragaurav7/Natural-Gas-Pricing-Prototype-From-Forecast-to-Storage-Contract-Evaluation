@@ -43,16 +43,6 @@ This project has two major components:
 
 ### 💰 Phase 2: Pricing Model
 
-The model is defined by the following function:
-
-```python
-def price_storage_contract(
-    injection_dates, withdrawal_dates,
-    rate_injection, rate_withdrawal,
-    max_volume, storage_cost_per_unit
-):
-    ...
-    return total_value, cash_flows
 -Simulates real-world injection (buy) and withdrawal (sell) of gas.
 -Tracks volume and costs over time.
 -Applies monthly storage costs.
