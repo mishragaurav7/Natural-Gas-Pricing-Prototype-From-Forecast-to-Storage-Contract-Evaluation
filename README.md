@@ -67,7 +67,8 @@ Total contract value: 150
 
 ----
 
-💡 Key Insights
+## 📊 Key Insights
+
 Seasonality Observed: Prices peak during winter (Oct–Feb), suggesting seasonal demand cycles.
 
 Forecasting Helps: Anticipated prices aid in choosing injection and withdrawal dates for profit.
